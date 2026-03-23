@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\Course_14\\2-Course_14_Projects\\LoginForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B98A03E5-6640-4585-A82C-191B961B662C}|LoginForm.csproj|e:\\c#\\course_14\\2-course_14_projects\\loginform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98A03E5-6640-4585-A82C-191B961B662C}|LoginForm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98A03E5-6640-4585-A82C-191B961B662C}|LoginForm.csproj|E:\\C#\\Course_14\\2-Course_14_Projects\\LoginForm\\frmcreateaccountscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98A03E5-6640-4585-A82C-191B961B662C}|LoginForm.csproj|solutionrelative:frmcreateaccountscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98A03E5-6640-4585-A82C-191B961B662C}|LoginForm.csproj|E:\\C#\\Course_14\\2-Course_14_Projects\\LoginForm\\frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98A03E5-6640-4585-A82C-191B961B662C}|LoginForm.csproj|solutionrelative:frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98A03E5-6640-4585-A82C-191B961B662C}|LoginForm.csproj|E:\\C#\\Course_14\\2-Course_14_Projects\\LoginForm\\frmcreateaccountscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B98A03E5-6640-4585-A82C-191B961B662C}|LoginForm.csproj|solutionrelative:frmcreateaccountscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98A03E5-6640-4585-A82C-191B961B662C}|LoginForm.csproj|E:\\C#\\Course_14\\2-Course_14_Projects\\LoginForm\\frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B98A03E5-6640-4585-A82C-191B961B662C}|LoginForm.csproj|solutionrelative:frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98A03E5-6640-4585-A82C-191B961B662C}|LoginForm.csproj|E:\\C#\\Course_14\\2-Course_14_Projects\\LoginForm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B98A03E5-6640-4585-A82C-191B961B662C}|LoginForm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMainScreen.cs",
+              "DocumentMoniker": "E:\\C#\\Course_14\\2-Course_14_Projects\\LoginForm\\frmMainScreen.cs",
+              "RelativeDocumentMoniker": "frmMainScreen.cs",
+              "ToolTip": "E:\\C#\\Course_14\\2-Course_14_Projects\\LoginForm\\frmMainScreen.cs",
+              "RelativeToolTip": "frmMainScreen.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T20:57:26.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCreateAccountScreen.cs",
+              "DocumentMoniker": "E:\\C#\\Course_14\\2-Course_14_Projects\\LoginForm\\frmCreateAccountScreen.cs",
+              "RelativeDocumentMoniker": "frmCreateAccountScreen.cs",
+              "ToolTip": "E:\\C#\\Course_14\\2-Course_14_Projects\\LoginForm\\frmCreateAccountScreen.cs",
+              "RelativeToolTip": "frmCreateAccountScreen.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvxoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T20:52:10.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\C#\\Course_14\\2-Course_14_Projects\\LoginForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\C#\\Course_14\\2-Course_14_Projects\\LoginForm\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwD8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T20:51:13.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMainScreen.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\Course_14\\2-Course_14_Projects\\LoginForm\\frmMainScreen.cs",
+              "RelativeDocumentMoniker": "frmMainScreen.cs",
+              "ToolTip": "E:\\C#\\Course_14\\2-Course_14_Projects\\LoginForm\\frmMainScreen.cs [Design]",
+              "RelativeToolTip": "frmMainScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T16:34:07.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCreateAccountScreen.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\Course_14\\2-Course_14_Projects\\LoginForm\\frmCreateAccountScreen.cs",
+              "RelativeDocumentMoniker": "frmCreateAccountScreen.cs",
+              "ToolTip": "E:\\C#\\Course_14\\2-Course_14_Projects\\LoginForm\\frmCreateAccountScreen.cs [Design]",
+              "RelativeToolTip": "frmCreateAccountScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T15:41:36.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\Course_14\\2-Course_14_Projects\\LoginForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\C#\\Course_14\\2-Course_14_Projects\\LoginForm\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T14:09:47.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
