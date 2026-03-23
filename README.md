@@ -10,12 +10,15 @@ A Windows Forms application built with C# that demonstrates the usage of various
 The main goal of this project is to practice working with different controls and handling interactions between them through a simple login and show account information 
 
 ---
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f7a19efa-4f8b-4ab1-9e70-03109e9d8e3d" /> --- <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a800fa12-de96-4d17-9f73-6da1950cf5ed" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f7a19efa-4f8b-4ab1-9e70-03109e9d8e3d" />      <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/61092bfa-77d2-4ca3-a88f-0502a685a9ac" />
 
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/61092bfa-77d2-4ca3-a88f-0502a685a9ac" />
+<img width="585" height="484" alt="image" src="https://github.com/user-attachments/assets/5444d3e6-3f0e-4fa4-bcb4-eb2d9980037e" />      <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a800fa12-de96-4d17-9f73-6da1950cf5ed" />
 
-<img width="585" height="484" alt="image" src="https://github.com/user-attachments/assets/5444d3e6-3f0e-4fa4-bcb4-eb2d9980037e" />
+
+
+
+
 
 
 ## ⚙️ Features
